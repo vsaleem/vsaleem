@@ -1,5 +1,5 @@
 <div align="center">
-<h1> 𝐇𝐞𝐥𝐥𝐨, <geeks/>!
+<h1> 𝐇𝐞𝐥𝐥𝐨, Geeks!
 <!-- Add image gif here -->
 </h1>
 </div>
