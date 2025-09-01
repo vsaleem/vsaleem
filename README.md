@@ -12,14 +12,14 @@
 
 <div align="center">
 
-Greetings! You have finally discovered my Github profile. 
+Greetings!
 </br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. 
+I'm currently at work building </strong>GlitterNGeek</strong>'s online community!  
 </br>
-Ask me whatever. <b><a href="mailto:vic.saleem@gmail.com"></a></b>
+More info will be announced soon however, I'd love to chat with anyone who's curious! In the meantime, here's my personal email:  <b><a href="mailto:vic.saleem@gmail.com">vic.saleem@gmail.com</a></b>
 
 </br>
-<i>Recruiters, you are welcomed here too!</i> 😊
+<i>Recruiters and Engineering Managers 😊, if you think we would mesh well, maybe consider hiring me? 🥺👉👈</i>
 </br>
 </br>
 
@@ -45,8 +45,6 @@ Ask me whatever. <b><a href="mailto:vic.saleem@gmail.com"></a></b>
 </div>
 
 <div align="center">
-
-If you like what I do, maybe consider hiring me? 🥺👉👈
 <br />
 <br />
 
@@ -54,12 +52,7 @@ If you like what I do, maybe consider hiring me? 🥺👉👈
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i>
-</br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-
 ---
-
 <i>Follow me on LinkedIn:</i>
 </br>
 
