@@ -16,7 +16,7 @@ Greetings!
 </br>
 I'm currently at work building </strong>GlitterNGeek</strong>'s online community!  
 </br>
-More info will be announced soon however, I'd love to chat with anyone who's curious! In the meantime, here's my personal email:  <b><a href="mailto:vic.saleem@gmail.com">vic.saleem@gmail.com</a></b>
+More info will be announced soon however, I'd love to chat with anyone who's curious! In the meantime, here's my personal email:  <b><a href="mailto:vic@glitterngeekmail.dev">vic@glitterngeek.dev</a></b>
 
 </br>
 <i>Recruiters and Engineering Managers</i>, if you think we would mesh well, maybe consider hiring me? 🥺👉👈😊
