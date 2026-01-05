@@ -16,6 +16,7 @@ Season's greetings!
 </br>
 I'm currently doing some exciting work with </strong>CivicActions</strong> supporting Veterans by building GUI 8416 Medical Expense Report & 534 Survivors Benefits Forms on VA.Gov.
 </br>
+</br>
 Also I'm hard at work building </strong>GlitterNGeek</strong>'s online community and tech education platform!  
 </br>
 In the meantime, I'd love to chat with anyone who's curious! I can be reached at:  <b><a href="mailto:vic@glitterngeekmail.dev">vic@glitterngeek.dev</a></b>
@@ -50,7 +51,7 @@ In the meantime, I'd love to chat with anyone who's curious! I can be reached at
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsaleem&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vsaleem's Github Stats">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsaleem&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vsaleem's Github Stats"> -->
 
 </br>
 </br>
