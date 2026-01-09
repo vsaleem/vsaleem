@@ -14,12 +14,12 @@
 
 Season's greetings!
 </br>
-I'm currently doing some exciting work with </strong>CivicActions</strong> supporting Veterans by building GUI 8416 Medical Expense Report & 534 Survivors Benefits Forms on VA.Gov.
+I'm currently doing some exciting work with </strong>CivicActions</strong> building 8416 Medical Expense Report & 534 Survivors Benefits Web Forms for VA.Gov.
 </br>
 </br>
 Also I'm hard at work building </strong>GlitterNGeek</strong>'s online community and tech education platform!  
 </br>
-In the meantime, I'd love to chat with anyone who's curious! I can be reached at:  <b><a href="mailto:vic@glitterngeekmail.dev">vic@glitterngeek.dev</a></b>
+In the meantime, I'd love to chat with anyone who's curious -- I can be reached at:  <b><a href="mailto:vic@glitterngeekmail.dev">vic@glitterngeek.dev</a></b>
 
 </br>
 <i>Recruiters and Engineering Managers</i>, if you think we would mesh well, maybe consider hiring me? 🥺👉👈😊
