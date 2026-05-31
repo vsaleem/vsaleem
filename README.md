@@ -1,32 +1,23 @@
-<div align="center">
-<h1> 𝐇𝐞𝐥𝐥𝐨, Geeks!
 <!-- Add image gif here -->
-</h1>
-</div>
+![Hello](./tmpl/hello.gif)
+<!-- <img src="./tmpl/hello.gif" alt="Hello" width="600" /> -->
 
-<div align="center" width="50">
+Hi 👋 I’m a **Senior Frontend / Full Stack Software Engineer** and founder of **GlitterNGeek**, building accessible web experiences, practical tech education, and AI-supported workflow tools for people and small businesses who are often left out of traditional tech spaces.
 
-<!-- Add image gif here -->
+My work sits at the intersection of **human-centered engineering, accessibility, public-sector technology, and community-driven learning**. I care about building software that is clear, reliable, inclusive, and useful — especially when the people using it are navigating high-stakes systems like health care, benefits, education, or financial services.
 
-</div>
+<hr>
 
-<div align="center">
+**What I build**
+- I design and ship scalable, accessible web applications using **React, TypeScript, JavaScript, REST APIs, automated testing, and modern frontend architecture**. I’ve worked on federal digital services supporting millions of users, including VA.gov healthcare, benefits, and financial-services platforms.
+  
+- Recently, I helped build VA.gov benefits web forms, including medical expense and survivors benefits workflows, where the work focused on reducing friction, improving form completion, integrating frontend experiences with backend services, and delivering accessible, reliable user journeys.
+  
+- Today, I’m also growing **GlitterNGeek** — my tech education and digital solutions brand focused on making technology feel less intimidating and more empowering.
 
-Season's greetings!
-</br>
-I'm currently doing some exciting work with </strong>CivicActions</strong> building 8416 Medical Expense Report & 534 Survivors Benefits Web Forms for VA.Gov.
-</br>
-</br>
-Also I'm hard at work building </strong>GlitterNGeek</strong>'s online community and tech education platform!  
-</br>
-In the meantime, I'd love to chat with anyone who's curious -- I can be reached at:  <b><a href="mailto:vic@glitterngeekmail.dev">vic@glitterngeek.dev</a></b>
+<hr>
 
-</br>
-<i>Recruiters and Engineering Managers</i>, if you think we would mesh well, maybe consider hiring me? 🥺👉👈😊
-</br>
-</br>
-
-### Things I code with
+**Things I code with**
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -44,19 +35,71 @@ In the meantime, I'd love to chat with anyone who's curious -- I can be reached 
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 </p>
-</br>
-</div>
 
+<hr>
+
+**Signature work**
+- **VA.gov Secure Messaging** 🏥  
+  Built and maintained React/Redux features for a mission-critical healthcare communication platform supporting millions of veterans. My work emphasized accessible interfaces, reliable data flows, automated testing, and scalable frontend architecture.
+  
+- **VA.gov Benefits Platform** 📄  
+  Developed complex benefits web forms with conditional workflows, backend API integration, feature flags, and automated testing. These projects improved completion efficiency and helped make benefits access smoother for veteran families.
+  
+- **VA Home Loans Platform** 🏠  
+  Built and modernized frontend and full-stack features for a high-traffic financial services platform, improving usability, reducing friction, and supporting more reliable access to critical services.
+  
+- **GlitterNGeek** ✨  
+  Building an online community and tech education platform centered on accessible learning, beginner-friendly resources, AI workflow automation, and digital tools for small businesses and non-traditional learners entering tech.
+
+<hr>
+
+**What I’m focused on now** 🎧
+
+I’m currently deepening my work in:
+
+- **AI-assisted workflow automation** for small businesses and learning communities
+- **QA automation and testing systems** that improve release confidence
+- **Accessible frontend architecture** with React, TypeScript, and design systems
+- **Backend foundations with Go**, including APIs, testing, concurrency, and distributed-system concepts
+- **Developer education** that makes complex topics easier to understand and apply
+
+<hr>
+
+**My engineering values** ⚖️
+
+I like building software that is:
+
+- **Accessible** — because good technology should include more people, not fewer.
+- **Reliable** — because users should be able to trust the systems they depend on.
+- **Clear** — because maintainable code and thoughtful UX both reduce confusion.
+- **Human-centered** — because behind every form, dashboard, message, and workflow is a real person trying to get something done.
+- **Community-minded** — because tech is better when knowledge is shared.
+
+<hr>
+
+**Open to collaboration** 👩🏽‍🤝‍👩🏾
+
+I’m always happy to connect with people working on:
+
+- Civic tech and public-sector digital services
+- Healthcare, benefits, education, and financial wellness tools
+- Accessible web platforms
+- AI automation for small businesses
+- Beginner-friendly tech education
+- Mission-driven engineering teams
+</br>
+</br>
+
+You can reach me at **vic@glitterngeek.dev**.
+</br>
+</br>
+Recruiters, engineering managers, founders, and collaborators: if you’re building something <i><b>thoughtful</b></i>, <i><b>useful</b></i>, and <i><b>human-centered</b></i>, I’d love to connect.
 <div align="center">
-<br />
-<br />
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsaleem&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vsaleem's Github Stats"> -->
+  
+<hr>
 
 </br>
-</br>
----
-<i>Follow me on LinkedIn:</i>
+<i>Connect with me on LinkedIn:</i>
 </br>
 
 <a href="https://www.linkedin.com/in/victoriasaleem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
