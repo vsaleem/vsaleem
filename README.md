@@ -1,6 +1,8 @@
 <!-- Add image gif here -->
-![Hello](./tmpl/hello.gif)
-<!-- <img src="./tmpl/hello.gif" alt="Hello" width="600" /> -->
+<!-- ![Hello Geeks](./tmpl/hellogeeks.gif) -->
+<p align="center">
+<img src="./tmpl/hellogeeks.gif" alt="Hello Geeks" width="300" />
+</p>
 
 Hi 👋 I’m a **Senior Frontend / Full Stack Software Engineer** and founder of **GlitterNGeek**, building accessible web experiences, practical tech education, and AI-supported workflow tools for people and small businesses who are often left out of traditional tech spaces.
 
